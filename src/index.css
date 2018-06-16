@@ -1,0 +1,7 @@
+button.square {
+    min-height: 50px;
+    width: 50px;
+    background: white;
+    padding: 18px;
+    margin: 1px;
+}

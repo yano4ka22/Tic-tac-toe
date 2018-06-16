@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/src/App.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/components/Board.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/components/Game.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/components/ShoppingList.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/components/Square.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/components/calculateWinner.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/src/App.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/components/Board.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/components/Game.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/components/ShoppingList.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/components/Square.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/components/calculateWinner.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
